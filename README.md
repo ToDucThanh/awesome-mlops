@@ -4,11 +4,15 @@
 
 *An awesome list of references for MLOps - Machine Learning Operations :point_right: [ml-ops.org](https://ml-ops.org/)*
 
+![Women+ in Data and AI Summer Festival. 30th of June 2023. Berlin Radialsystem](WDAI-main.jpg)
+
+**Join us at the "Women+ in Data and AI Summer Festival". Featuring 100% female+ speakers. Everyone is welcome. June 30th at Berlin Radialsystem.  Tickets :point_right: [women-in-data-ai.tech](https://women-in-data-ai.tech)**
+
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/visenger?style=social)
 
 
-# Table of Content
+# Table of Contents
 | <!-- -->                         | <!-- -->                         |
 | -------------------------------- | -------------------------------- |
 | [MLOps Core](#core-mlops) | [MLOps Communities](#mlops-communities) |
@@ -43,6 +47,7 @@
 1. [ML full Stack preparation](https://www.confetti.ai/)
 1. [MLOps Guide: Theory and Implementation](https://mlops-guide.github.io/)
 1. [Practitioners guide to MLOps: A framework for continuous delivery and automation of machine learning.](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf)
+1. [MLOps maturity assessment](https://github.com/marvelousmlops/mlops_maturity_assessment)
 </details>
 
 
@@ -57,13 +62,16 @@
 1. [DataTalks.Club](https://datatalks.club/)
 1. [Synthetic Data Community](https://syntheticdata.community/)
 1. [MLOps World Community](https://www.mlopsworld.com)
+1. [Marvelous MLOps](https://www.linkedin.com/company/marvelous-mlops)
 </details>
 
 <a name="mlops-courses"></a>
 # MLOps Courses
 
 1. [MLOps Zoomcamp (free)](https://github.com/DataTalksClub/mlops-zoomcamp)
-2. [Coursera's Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
+1. [Coursera's Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
+1. [Udacity Machine Learning DevOps Engineer](https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821)
+1. [Made with ML](https://madewithml.com/#course)
 
 
 <a name="mlops-books"></a>
@@ -223,6 +231,10 @@
 1. [Enterprise Readiness of Cloud MLOps](https://gigaom.com/report/enterprise-readiness-of-cloud-mlops/)
 1. [Should I Train a Model for Each Customer or Use One Model for All of My Customers?](https://towardsdatascience.com/should-i-train-a-model-for-each-customer-or-use-one-model-for-all-of-my-customers-f9e8734d991)
 1. [MLOps-Basics (GitHub repo)](https://github.com/graviraja/MLOps-Basics) by [raviraja](https://github.com/graviraja)
+1. [Another tool won’t fix your MLOps problems](https://dshersh.medium.com/too-many-mlops-tools-c590430ba81b)
+1. [Best MLOps Tools: What to Look for and How to Evaluate Them (by NimbleBox.ai)](https://nimblebox.ai/blog/mlops-tools)
+1. [MLOps vs. DevOps: A Detailed Comparison (by NimbleBox.ai)](https://nimblebox.ai/blog/mlops-vs-devops)
+1. [A Guide To Setting Up Your MLOps Team (by NimbleBox.ai)](https://nimblebox.ai/blog/mlops-team-structure)
 </details>
 
 
@@ -296,6 +308,8 @@
 1. [Automating Data Protection at Scale](https://medium.com/airbnb-engineering/automating-data-protection-at-scale-part-1-c74909328e08)
 1. [A curated list of awesome pipeline toolkits](https://github.com/pditommaso/awesome-pipeline)
 1. [Data Mesh Archtitecture](https://www.datamesh-architecture.com/)
+1. [The Essential Guide to Data Exploration in Machine Learning (by NimbleBox.ai)](https://nimblebox.ai/blog/data-exploration)
+1. [Finding millions of label errors with Cleanlab](https://datacentricai.org/blog/finding-millions-of-label-errors-with-cleanlab/)
 </details>
 
 
@@ -318,9 +332,10 @@
 1. [Serverless ML: Deploying Lightweight Models at Scale](https://mark.douthwaite.io/serverless-machine-learning/)
 1. ML Model Rollout To Production. [Part 1](https://www.superwise.ai/resources-old/safely-rolling-out-ml-models-to-production) | [Part 2](https://www.superwise.ai/blog/part-ii-safely-rolling-out-models-to-production)
 1. [Deploying Python ML Models with Flask, Docker and Kubernetes](https://alexioannides.com/2019/01/10/deploying-python-ml-models-with-flask-docker-and-kubernetes/)
-1. [Deploying Python ML Models with Bodywork](https://alexioannides.com/2020/12/01/deploying-python-ml-models-with-bodywork/)
+1. [Deploying Python ML Models with Bodywork](https://alexioannides.com/2020/12/01/deploying-ml-models-with-bodywork/)
 1. [Framework for a successful Continuous Training Strategy. When should the model be retrained? What data should be used? What should be retrained? A data-driven approach](https://towardsdatascience.com/framework-for-a-successful-continuous-training-strategy-8c83d17bb9dc)
 1. [Efficient Machine Learning Inference. The benefits of multi-model serving where latency matters](https://www.oreilly.com/content/efficient-machine-learning-inference/)
+1. [Deploying Hugging Face ML Models in the Cloud with Infrastructure as Code](https://www.pulumi.com/blog/mlops-the-ai-challenge-is-cloud-not-code/)
 </details>
 
  
@@ -359,6 +374,8 @@
 1. [ML Model Monitoring – 9 Tips From the Trenches. (by NU bank)](https://building.nubank.com.br/ml-model-monitoring-9-tips-from-the-trenches/)
 1. [Model health assurance at LinkedIn. By LinkedIn Engineering](https://engineering.linkedin.com/blog/2021/model-health-assurance-at-linkedin)
 1. [How to Trust Your Deep Learning Code](https://krokotsch.eu/cleancode/2020/08/11/Unit-Tests-for-Deep-Learning.html) ([Accompanying code](https://github.com/tilman151/unittest_dl))
+1. [Estimating Performance of Regression Models Without Ground-Truth](https://bit.ly/medium-estimating-performance-regression) (Using [NannyML](https://bit.ly/ml-ops-nannyml))
+1. [How Hyperparameter Tuning in Machine Learning Works (by NimbleBox.ai)](https://nimblebox.ai/blog/hyperparameter-tuning-machine-learning)
 </details>
 
 <a name="mlops-infra"></a>
@@ -381,6 +398,8 @@
 1. [The 2021 State of AI Infrastructure Survey](https://pages.run.ai/hubfs/PDFs/2021-State-of-AI-Infrastructure-Survey.pdf)
 1. [AI infrastructure Maturity matrix](https://pages.run.ai/hubfs/PDFs/AI-Infrastructure-Maturity-Benchmarking-Model.pdf)
 1. [A Curated Collection of the Best Open-source MLOps Tools. By Censius](https://censius.ai/mlops-tools)
+1. [Best MLOps Tools to Manage the ML Lifecycle (by NimbleBox.ai)](https://nimblebox.ai/blog/mlops-tools)
+1. [The minimum set of must-haves for MLOps](https://marvelousmlops.substack.com/p/the-minimum-set-of-must-haves-for)
 </details>
 
 
@@ -439,7 +458,7 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. [TFX: A TensorFlow-Based Production-Scale Machine Learning Platform](https://dl.acm.org/doi/pdf/10.1145/3097983.3098021?download=true)
 1. [Accelerate your ML and Data workflows to production: Flyte](https://flyte.org/)
 1. [Getting started with Kubeflow Pipelines](https://cloud.google.com/blog/products/ai-machine-learning/getting-started-kubeflow-pipelines)
-1. [Meet Michelangelo: Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo/)
+1. [Meet Michelangelo: Uber’s Machine Learning Platform](https://www.uber.com/blog/michelangelo-machine-learning-platform/)
 1. [Meson: Workflow Orchestration for Netflix Recommendations](https://netflixtechblog.com/meson-workflow-orchestration-for-netflix-recommendations-fc932625c1d9)
 1. [What are Azure Machine Learning pipelines?](https://docs.microsoft.com/en-gb/azure/machine-learning/concept-ml-pipelines)
 1. [Uber ATG’s Machine Learning Infrastructure for Self-Driving Vehicles](https://eng.uber.com/machine-learning-model-life-cycle-version-control/)
@@ -509,6 +528,9 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. [Book: "Distributed Machine Learning Patterns". 2022. By Yuan Tang. Manning](https://www.manning.com/books/distributed-machine-learning-patterns)
 1. [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners)
 1. [Making Friends with Machine Learning. By Cassie Kozyrkov]()
+1. [Machine Learning Workflow - A Complete Guide (by NimbleBox.ai)](https://nimblebox.ai/blog/machine-learning-workflow)
+1. [Performance Metrics to Monitor in Machine Learning Projects (by NimbleBox.ai)](https://nimblebox.ai/blog/machine-learning-performance-metrics)
+ 
 </details>
 
 
@@ -552,6 +574,7 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. [AI ideation canvas](https://idalab.de/wp-content/uploads/2021/02/idalab-AI-ideation-canvas-Feb21.pdf)
 1. [Ideation in AI](https://idalab.de/ideation-in-ai-five-ways-to-make-the-workshops-work/)
 1. [5 Steps for Building Machine Learning Models for Business. By shopify engineering](https://shopify.engineering/building-business-machine-learning-models)
+1. [Metric Design for Data Scientists and Business Leaders](https://towardsdatascience.com/metric-design-for-data-scientists-and-business-leaders-b8adaf46c00)
 </details>
 
 
@@ -661,6 +684,10 @@ This topic is extracted into our new [Awesome ML Model Governace repository](htt
 1. [Data Science Programming Newsletter by Eric Ma](https://dspn.substack.com/)
 1. [Marginally Interesting by Mikio L. Braun](https://www.getrevue.co/profile/mikiobraun) 
 1. [Synced](https://syncedreview.com/)
+1. [The Ground Truth: Newsletter for Computer Vision Practitioners](https://info.superb-ai.com/ground-truth-newsletter-subscribe)
+1. [SwirlAI: Data Engineering, MLOps and overall Data focused Newsletter by Aurimas Griciūnas](https://swirlai.substack.com/)
+1. [Marvelous MLOps](https://marvelousmlops.substack.com)
+1. [Made with ML](https://madewithml.com/misc/newsletter/)
 </details>
  
 ![Twitter Follow](https://img.shields.io/twitter/follow/visenger?style=social)
